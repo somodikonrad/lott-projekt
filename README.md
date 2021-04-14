@@ -1,1 +1,2 @@
 # lott-projekt
+Vargacz Gergő
