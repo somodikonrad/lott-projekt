@@ -1,13 +1,21 @@
-h1{
+body{
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
 }
 h2{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-
+    text-align: left;
+    margin-left: 100px;
+    font-size: 35px;
 }
-img{
-    height: 135px;
-    width: 135px;
-} 
+
+#jobboldal{
+    float: right;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+#jobboldal h1{
+    text-align: left;
+    margin-left: 90px;
+    font-size: 40px;
+    font-weight: bold;
+}
