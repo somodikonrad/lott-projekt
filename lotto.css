@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: left;
+    margin-left: 90px;
+    font-size: 35px;
+}
+
+#jobboldal{
+    float: right;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+#jobboldal h1{
+    text-align: left;
+    margin-left: 90px;
+    font-size: 40px;
+    font-weight: bold;
+}
+#baloldal p{
+    font-size: 17px;
+    margin-left: 30px;
+}
+#baloldal{
+    width: 30%;
+    min-height: 100%;
+    height: 100%;
+    background-color: rgb(91, 102, 125);
+    color: white;
+    float: left;
+}
+#lottokepek{
+    margin-right: 200px;
+}
+#lottokepek img{
+    height: 100px;
+}
+hr{
+    width: 90%;
+    border-color: rgb(95, 95, 95);
+}
+#baloldal img{
+    width: 100%;
+    
+}
