@@ -1,6 +1,4 @@
-# lott-projekt
 Vargacz Gergő
 Molnár Bence
-Konrád
-
+Somodi Konrád
 https://somodikonrad.github.io/lott-projekt/
