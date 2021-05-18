@@ -6,8 +6,7 @@ img{
     width: 100px;
     height: auto;
     text-indent: left;
-    float: left;
-}
+} 
 table, td, tr{
     text-align: left;
     font-size: 50px;
@@ -16,7 +15,7 @@ table, td, tr{
     
 }
 tbody{
-    text-indent: 80px;
+    text-indent: 50px;
 }
 td{
     text-indent: left;
