@@ -23,6 +23,8 @@ h2{
 #baloldal p{
     font-size: 17px;
     margin-left: 30px;
+    text-decoration: none;
+    color: white;
 }
 #baloldal{
     width: 30%;
@@ -31,6 +33,7 @@ h2{
     background-color: rgb(91, 102, 125);
     color: white;
     float: left;
+    text-decoration: none;
 }
 #lottokepek{
     margin-right: 200px;
@@ -45,4 +48,8 @@ hr{
 #baloldal img{
     width: 100%;
     
+}
+a{
+    text-decoration: none;
+    color: white;
 }

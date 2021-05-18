@@ -21,3 +21,7 @@ tbody{
 td{
     text-indent: left;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
